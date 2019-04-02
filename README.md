@@ -2,6 +2,9 @@
 This is java code classifier that is able to clasify java lines of code as general programming concepts
 like classes, loops, functions etc
 
+
+For parser to create appropriate datafile look [to this repo here](https://github.com/falanadamian/java-parser) 
+
 ### Prequisitions
 python 3.6 and following libraries
 * keras 2.*
@@ -13,7 +16,7 @@ python 3.6 and following libraries
 ## Run
 `python3 main.py <path to .csv parsed file>`
 
-###TODO
+##TODO
 tweaks, add context to classification
 
 ### Unofficial
