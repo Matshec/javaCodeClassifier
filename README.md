@@ -1,4 +1,4 @@
-#Java code classifier
+Java code classifier
 This is java code classifier that is able to clasify java lines of code as general programming concepts
 like classes, loops, functions etc
 
@@ -16,7 +16,7 @@ python 3.6 and following libraries
 ## Run
 `python3 main.py <path to .csv parsed file>`
 
-##TODO
+## TODO
 tweaks, add context to classification
 
 ### Unofficial
