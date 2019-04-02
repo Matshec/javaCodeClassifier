@@ -4,9 +4,9 @@ from keras.wrappers.scikit_learn import KerasClassifier
 from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import KFold
 
-from encoder import Encoder
-from dataHarverster import DataHarvester
-from model import ModelBuilder
+from src.encoder import Encoder
+from src.dataHarverster import DataHarvester
+from src.model import ModelBuilder
 
 
 def args():
